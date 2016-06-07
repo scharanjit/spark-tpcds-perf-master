@@ -1,0 +1,7 @@
+show classpathConfiguration
+classpath
+classpathConfiguration
+fullClasspath
+show fullClasspath
+show fullClasspath | grep "sql"
+compile
