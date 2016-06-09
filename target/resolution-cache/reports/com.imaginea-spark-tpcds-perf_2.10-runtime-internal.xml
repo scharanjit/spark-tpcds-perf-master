@@ -7,7 +7,7 @@
 		revision="0.4.7-SNAPSHOT"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160606110917"/>
+		date="20160608140254"/>
 	<dependencies>
 		<module organisation="com.github.scopt" name="scopt_2.10">
 			<revision name="3.3.0" status="release" pubdate="20141215065200" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/scopt/scopt" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">

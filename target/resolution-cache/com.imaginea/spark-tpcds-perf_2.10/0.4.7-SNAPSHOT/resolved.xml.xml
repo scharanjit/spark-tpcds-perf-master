@@ -4,7 +4,7 @@
 		module="spark-tpcds-perf_2.10"
 		revision="0.4.7-SNAPSHOT"
 		status="integration"
-		publication="20160606110917"
+		publication="20160608140254"
 	>
 		<license name="Apache-2.0" url="http://opensource.org/licenses/Apache-2.0" />
 		<description>

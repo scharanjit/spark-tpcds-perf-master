@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cc7fc52[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a625061[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -5539,7 +5539,7 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.apache.spark#spark-core_2.10;2.0.0-SNAPSHOT {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]} => dependency: org.apache.spark#spark-core_2.10;0.9.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@220be09b[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@35336af7[0m
 [0m[[0minfo[0m] [0mResolving org.apache.calcite#calcite-linq4j;1.2.0-incubating ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.calcite#calcite-linq4j;1.2.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.calcite#calcite-linq4j;1.2.0-incubating[0m
@@ -5578,7 +5578,7 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.apache.spark#spark-core_2.10;2.0.0-SNAPSHOT {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]} => dependency: org.apache.spark#spark-core_2.10;0.9.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@53603ee4[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@51d989c9[0m
 [0m[[0minfo[0m] [0mResolving net.hydromatic#eigenbase-properties;1.1.5 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: net.hydromatic#eigenbase-properties;1.1.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: net.hydromatic#eigenbase-properties;1.1.5[0m
@@ -10268,10 +10268,10 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.apache.spark#spark-core_2.10;2.0.0-SNAPSHOT {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]} => dependency: org.apache.spark#spark-core_2.10;0.9.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@459b1a98[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@7b078b48[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@609d3797[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@394010d9[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@3fb4d929[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@5b772dfb[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@7cc5efe3[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@200f94f7[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mexcluding dependency: com.google.guava#guava;14.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->commons-dbcp#commons-dbcp;1.4 [compile->master(compile)][0m
@@ -10306,10 +10306,10 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.apache.spark#spark-core_2.10;2.0.0-SNAPSHOT {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]} => dependency: org.apache.spark#spark-core_2.10;0.9.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@6a20a2cb[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@535fa18e[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@63e8265c[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@40c62713[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@878c01b[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@540c45cf[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@36e7ca1c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@619210d3[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->net.hydromatic#eigenbase-properties;1.1.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->org.codehaus.janino#commons-compiler;2.7.6 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0mexcluding dependency: com.fasterxml.jackson.core#jackson-annotations;2.1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile[0m
@@ -15136,12 +15136,12 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.apache.spark#spark-core_2.10;2.0.0-SNAPSHOT {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]} => dependency: org.apache.spark#spark-core_2.10;0.9.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@a393da9[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@33472eb9[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@6b68c228[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@4efa94af[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@ded2cac[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@7d5f94e[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@556881c9[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@50eaa739[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@6ae9838c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@537bfa53[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@420c4f3c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@475aeb2b[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mexcluding dependency: com.google.guava#guava;14.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->commons-dbcp#commons-dbcp;1.4 [compile->master(compile)][0m
@@ -15176,12 +15176,12 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.apache.spark#spark-core_2.10;2.0.0-SNAPSHOT {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]} => dependency: org.apache.spark#spark-core_2.10;0.9.0-incubating {compile=[compile(*), master(compile)], runtime=[runtime(*)], test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.12 {test=[runtime(*), master(compile)]} => dependency: junit#junit;4.11 {test=[runtime(*), master(compile)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@542876f5[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@7c9feab7[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@5e2c96c8[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@4b5d35dc[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@5cd56d9c[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@2cc7fc52 => sbt.ivyint.MergedDescriptors@5f1ceee3[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@4df9e599[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@5d6a4cbe[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@7360ee31[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@7fd513b8[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@7d02e4f6[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@4a625061 => sbt.ivyint.MergedDescriptors@72025854[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->net.hydromatic#eigenbase-properties;1.1.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.calcite#calcite-core;1.2.0-incubating->org.codehaus.janino#commons-compiler;2.7.6 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0mexcluding dependency: com.fasterxml.jackson.core#jackson-annotations;2.1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile[0m
@@ -15773,7 +15773,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 51628ms :: artifacts dl 63ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 60963ms :: artifacts dl 150ms[0m
 [0m[[0mdebug[0m] [0m	report for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT compile produced in /home/charanjits/Documents/ideaProjects/finalProjectImaginea/spark-tpcds-perf-master/target/resolution-cache/reports/com.imaginea-spark-tpcds-perf_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT runtime produced in /home/charanjits/Documents/ideaProjects/finalProjectImaginea/spark-tpcds-perf-master/target/resolution-cache/reports/com.imaginea-spark-tpcds-perf_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT test produced in /home/charanjits/Documents/ideaProjects/finalProjectImaginea/spark-tpcds-perf-master/target/resolution-cache/reports/com.imaginea-spark-tpcds-perf_2.10-test.xml[0m
@@ -15787,5 +15787,5 @@
 [0m[[0mdebug[0m] [0m	report for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT docs produced in /home/charanjits/Documents/ideaProjects/finalProjectImaginea/spark-tpcds-perf-master/target/resolution-cache/reports/com.imaginea-spark-tpcds-perf_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT pom produced in /home/charanjits/Documents/ideaProjects/finalProjectImaginea/spark-tpcds-perf-master/target/resolution-cache/reports/com.imaginea-spark-tpcds-perf_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.imaginea#spark-tpcds-perf_2.10;0.4.7-SNAPSHOT scala-tool produced in /home/charanjits/Documents/ideaProjects/finalProjectImaginea/spark-tpcds-perf-master/target/resolution-cache/reports/com.imaginea-spark-tpcds-perf_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (51628ms resolve - 63ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (60963ms resolve - 150ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
