@@ -1,5 +1,4 @@
-// Your sbt build file. Guides on how to write one can be found at
-// http://www.scala-sbt.org/0.13/docs/index.html
+
 
 name := "spark-tpcds-perf"
 
@@ -32,8 +31,6 @@ initialCommands in console :=
   """.stripMargin
 
 
-
-// TODO: remove after Spark 2.0.0 is released:
 resolvers += "apache-snapshots" at "https://repository.apache.org/snapshots/"
 
 libraryDependencies += "org.slf4j" % "slf4j-api" % "1.7.5"
