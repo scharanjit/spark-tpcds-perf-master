@@ -16,18 +16,18 @@ A filter can also be added here as per requirement
 4.) From their , it will run com.imaginea.spark.tpcds.perf.RunBenchmark class
 
 
-                                                ![alt tag](http://url/to/img.png)
-                                   RunBenchmark.scala
+![alt tag](https://github.com/scharanjit/spark-tpcds-perf-master/blob/master/image.png)
+RunBenchmark.scala
                                     
 
-                                     [<Click here for Benchmark Info>](https://docs.google.com/document/d/18iJqSMsXEpuVeKIrG5XwoFhsGJyopI3h0_AA_0CpNPc/edit)
+[<Click here for Benchmark Info>](https://docs.google.com/document/d/18iJqSMsXEpuVeKIrG5XwoFhsGJyopI3h0_AA_0CpNPc/edit)
 
                                   
 
-                                    [ <Click here for Queries Printed>](https://docs.google.com/document/d/1V5GycG8MgLG5G_YxpKzPCfrL6eD6ZpyxI_hQ63_S3aU/edit)
+[ <Click here for Queries Printed>](https://docs.google.com/document/d/1V5GycG8MgLG5G_YxpKzPCfrL6eD6ZpyxI_hQ63_S3aU/edit)
 
                                   
-                                  [<========Print Results =========>](https://docs.google.com/document/d/10PqpW7YJC07cngoWTTg5BrURV5WNxmdG1tVLihdoyCI/edit)
+[<========Print Results =========>](https://docs.google.com/document/d/10PqpW7YJC07cngoWTTg5BrURV5WNxmdG1tVLihdoyCI/edit)
 
 
 
@@ -54,5 +54,7 @@ RESULTS
 |RDD: range |1031.137126|1421.512493|1294.06481 |134.89836646075193|
 +-------------------------+-----------+-----------+------------------+------------------+
 
+
+P.S :- Rasie an issue if you need cannpt access google docs
 
 ```
