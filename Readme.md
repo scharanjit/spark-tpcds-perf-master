@@ -15,7 +15,7 @@ A filter can also be added here as per requirement
 
 4.) From their , it will run com.imaginea.spark.tpcds.perf.RunBenchmark class
 
-
+```
 ![alt tag](https://github.com/scharanjit/spark-tpcds-perf-master/blob/master/image.png)
 RunBenchmark.scala
                                     
@@ -33,8 +33,7 @@ RunBenchmark.scala
 
 
 
-
-
+````
 
 RESULTS
 +-------------------------+-----------+-----------+------------------+------------------+
