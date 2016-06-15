@@ -1,5 +1,5 @@
 ```
-	 	 	
+ 	 	This project is used to measure perfromance using TPC DS benchmark
 
 
 1.) Go to project Directory
@@ -65,6 +65,6 @@ RESULTS
 +-------------------------+-----------+-----------+------------------+------------------+
 
 
-P.S :- Rasie an issue if you need cannpt access google docs
+P.S :- Rasie an issue if you  cannot access google docs
 
 ```
